@@ -1,2 +1,0 @@
-# ProjetoBlogPessoal
-Deploy
